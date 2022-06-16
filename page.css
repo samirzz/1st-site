@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color: gray;
+    padding: 30%;
+    
+
+}
+.image{
+    background-image: url("image/back.jpeg");
+    background-size: cover;
+    height: 200%;
+    width: 100%;
+}
+.btn{
+    background-color: blue;
+    color: aliceblue;
+    border: 3px solid red;
+    padding: 13px;
+    margin: 9px;
+    position:center ;
+    top:50%;
+    
+    
+}
+.icon-bar {
+    width: 100%; 
+    background-color: #555; 
+    overflow: auto; 
+  }
+  
+  .icon-bar a {
+    float: left; 
+    text-align: center; 
+    width: 20%; 
+    padding: 12px 0;
+    transition: all 0.3s ease; 
+    color: white; 
+    font-size: 36px; 
+  }
+  
+  .icon-bar a:hover {
+    background-color: #000; 
+  }
+  
+  .active {
+    background-color: #04AA6D; 
+  }
+  
